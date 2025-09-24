@@ -1,6 +1,6 @@
 ```bash
 py -3.12 -m venv venv && \
-venv/bin/activate && \
+venv\Scripts\activate && \
 pip install --upgrade pip && \
 pip install -r requirements.txt
 ```
